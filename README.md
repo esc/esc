@@ -27,6 +27,8 @@ be able to make. It was his backup, just in case, you never know, he might trip
 a switch... during the run.. He called it an "Emergency Self-Construct", or
 "esc" for short.
 
+🤖
+
 <!--
 **esc/esc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
